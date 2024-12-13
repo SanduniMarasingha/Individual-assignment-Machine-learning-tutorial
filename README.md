@@ -13,3 +13,5 @@ K-Means graph using the elbow method.
 scatterplots with centroids and clusters displayed. Noise-handled DBSCAN clustering results.
 # Comparative Analysis:
 K-Means and DBSCAN clustering metrics are tabularly compared.
+
+Link for dataset download - https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
